@@ -5,6 +5,8 @@ h1 {
 
 body {
     background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg');
+    background-size: 2000px;
+    background-attachment: fixed;
 }
 
 ul {
